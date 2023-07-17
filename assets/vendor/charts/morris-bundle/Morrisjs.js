@@ -57,19 +57,19 @@
             Morris.Bar({
                 element: 'morris_bar',
                 data: [
-                    { x: '2011 Q1', y: 0 },
-                    { x: '2011 Q2', y: 1 },
-                    { x: '2011 Q3', y: 2 },
-                    { x: '2011 Q4', y: 3 },
-                    { x: '2012 Q1', y: 4 },
-                    { x: '2012 Q2', y: 5 },
-                    { x: '2012 Q3', y: 6 },
-                    { x: '2012 Q4', y: 7 },
-                    { x: '2013 Q1', y: 8 }
+                    { x: 'Oct 2022', y: 13508 },
+                    { x: 'Nov 2022', y: 15062 },
+                    { x: 'Dec 2022', y: 18693 },
+                    { x: 'Jan 2023', y: 25203 },
+                    { x: 'Feb 2023', y: 23010 },
+                    { x: 'Mar 2023', y: 25030 },
+                    { x: 'Apr 2023', y: 31102 },
+                    { x: 'May 2023', y: 33579 },
+                    { x: 'Jun 2023', y: 36258 }
                 ],
                 xkey: 'x',
                 ykeys: ['y'],
-                labels: ['Y'],
+                labels: ['Commission'],
                    barColors: ['#5969ff'],
                      resize: true,
                         gridTextSize: '14px'
